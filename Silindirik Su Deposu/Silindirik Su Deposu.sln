@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silindirik Su_Deposu", "Silindirik Su Deposu\Silindirik Su_Deposu.csproj", "{8390C64E-8CDF-4A61-9F55-49C87B0D2E0F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Silindirik Su Deposu", "Silindirik_Su_Deposu\Silindirik_Su_Deposu.vdproj", "{267F05EA-CF49-4B83-BF05-032B33A475CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8390C64E-8CDF-4A61-9F55-49C87B0D2E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8390C64E-8CDF-4A61-9F55-49C87B0D2E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8390C64E-8CDF-4A61-9F55-49C87B0D2E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8390C64E-8CDF-4A61-9F55-49C87B0D2E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267F05EA-CF49-4B83-BF05-032B33A475CD}.Debug|Any CPU.ActiveCfg = Debug
+		{267F05EA-CF49-4B83-BF05-032B33A475CD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {741B72E3-D5AF-4461-A4D0-3832B43BF732}
+	EndGlobalSection
+EndGlobal

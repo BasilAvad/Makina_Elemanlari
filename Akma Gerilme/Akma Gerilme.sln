@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akma Gerilme", "Akma Gerilme\Akma Gerilme.csproj", "{C10CEA8B-F360-4982-988D-3D5C0E688D01}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Burkulma Emniyeti kontrolör", "Burkulma Emniyeti kontrolör\Burkulma Emniyeti kontrolör.vdproj", "{493F6FE7-BB32-4E96-8F7B-6A091866C1CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C10CEA8B-F360-4982-988D-3D5C0E688D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10CEA8B-F360-4982-988D-3D5C0E688D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10CEA8B-F360-4982-988D-3D5C0E688D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10CEA8B-F360-4982-988D-3D5C0E688D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{493F6FE7-BB32-4E96-8F7B-6A091866C1CB}.Debug|Any CPU.ActiveCfg = Debug
+		{493F6FE7-BB32-4E96-8F7B-6A091866C1CB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7C489A3-CA24-4FDC-BA03-F9A21DA3A300}
+	EndGlobalSection
+EndGlobal

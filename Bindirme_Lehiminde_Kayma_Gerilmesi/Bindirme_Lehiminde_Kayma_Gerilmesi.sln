@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bindirme_Lehiminde_Kayma_Gerilmesi", "Bindirme_Lehiminde_Kayma_Gerilmesi\Bindirme_Lehiminde_Kayma_Gerilmesi.csproj", "{D2202C1D-736E-4654-ABD9-5314E5C05EEE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Bindirme Lehiminde Kayma Gerilmesi", "Bindirme Lehiminde Kayma Gerilmesi\Bindirme Lehiminde Kayma Gerilmesi.vdproj", "{37BEDB0E-CC1D-409E-B73D-78F52F5F2E36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2202C1D-736E-4654-ABD9-5314E5C05EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2202C1D-736E-4654-ABD9-5314E5C05EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2202C1D-736E-4654-ABD9-5314E5C05EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2202C1D-736E-4654-ABD9-5314E5C05EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37BEDB0E-CC1D-409E-B73D-78F52F5F2E36}.Debug|Any CPU.ActiveCfg = Debug
+		{37BEDB0E-CC1D-409E-B73D-78F52F5F2E36}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B5D584E-E661-4012-9761-7E3CCB6E5B0B}
+	EndGlobalSection
+EndGlobal

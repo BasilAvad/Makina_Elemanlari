@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otomobil_Krikosu", "Otomobil_Krikosu\Otomobil_Krikosu.csproj", "{F9CC6026-43C6-4689-A359-220CE35B2C19}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Otomobil Kriko", "Otomobil Kriko\Otomobil Kriko.vdproj", "{B11039D1-94B4-42D5-BE69-A1451479BAD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9CC6026-43C6-4689-A359-220CE35B2C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CC6026-43C6-4689-A359-220CE35B2C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CC6026-43C6-4689-A359-220CE35B2C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CC6026-43C6-4689-A359-220CE35B2C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B11039D1-94B4-42D5-BE69-A1451479BAD1}.Debug|Any CPU.ActiveCfg = Debug
+		{B11039D1-94B4-42D5-BE69-A1451479BAD1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A63CAAB3-1DF3-47A8-9256-53CA60A5B672}
+	EndGlobalSection
+EndGlobal
