@@ -1,4 +1,4 @@
-# Makina Elemanlari
+
 Makine Elemanları dersinde bazı zor problemlerin hesaplanmasına yardımcı uygulamalar.
 
 ![Bindirme Lehiminde Kayma Gerilmesi](https://user-images.githubusercontent.com/69681817/110253567-180c0a00-7f9c-11eb-8b2b-b17c3c15445e.png)
@@ -11,3 +11,7 @@ Makine Elemanları dersinde bazı zor problemlerin hesaplanmasına yardımcı uy
 ![Burkulma](https://user-images.githubusercontent.com/69681817/110253627-5bff0f00-7f9c-11eb-922f-2472c0871e17.png)
 ![islah celik](https://user-images.githubusercontent.com/69681817/110253631-5ef9ff80-7f9c-11eb-9d66-a0cd1502d2fd.png)
 
+# Nasıl İndirilir
+1.
+2.
+3.
